@@ -15,7 +15,7 @@ import React from 'react';
        settings: {...this.state.settings, bitrate: 12}
      })
    }
- 
+
    handleRes = ()=>{
      this.setState({
        settings: {...this.state.settings,
